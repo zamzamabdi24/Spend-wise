@@ -20,14 +20,14 @@ Users can enter a monthly budget, add expense records with a description, amount
 
 ## GitHub Repository Information
 
-- Repository name: SpendWise
+- Repository name: Spend-wise
 - Repository visibility: Public
-- GitHub repository URL: https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME
+- GitHub repository URL: https://github.com/zamzamabdi24/Spend-wise
 - Main branch: main
 
 ## Live Netlify Website URL
 
-- Live website: https://YOUR-NETLIFY-SITE-NAME.netlify.app
+- Live website: https://zamzam-spendwise.netlify.app/
 
 ## Deployment Process Summary
 
@@ -37,7 +37,7 @@ Users can enter a monthly budget, add expense records with a description, amount
 4. Created a Netlify account and connected it to GitHub.
 5. Imported the SpendWise GitHub repository into Netlify.
 6. Used the repository root as the publish directory because the project is a static website.
-7. Changed the default Netlify subdomain to a meaningful project name.
+7. Changed the default Netlify subdomain to `zamzam-spendwise`.
 8. Made a visible update to the project, pushed it to GitHub, and confirmed that Netlify automatically deployed the update.
 9. Tested the live website to ensure the HTML, CSS, JavaScript, forms, buttons, and dashboard updates worked correctly.
 
@@ -47,7 +47,7 @@ One challenge was ensuring that the correct project folder was selected during d
 
 Another challenge was confirming that automatic deployment worked. This was solved by making a small visible change to the website, committing and pushing the change to GitHub, then refreshing the Netlify website to confirm that the update appeared.
 
-A further challenge was changing the default Netlify site name. This was solved by opening the Netlify site settings, selecting **Domain management**, and updating the default subdomain to a more meaningful name related to SpendWise.
+A further challenge was changing the default Netlify site name. This was solved by opening the Netlify site settings, selecting **Domain management**, and updating the default subdomain to `zamzam-spendwise`.
 
 ## Lessons Learned
 
